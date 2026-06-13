@@ -7,6 +7,9 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://tensorflow.org)
 
+## 🌐 Live Demo
+👉 [Coba Aplikasi Sekarang](https://student-dropout-prediction-dbfmkgannk9qwfzrnypfta.streamlit.app/)
+
 ---
 
 ## 📌 Deskripsi Proyek
